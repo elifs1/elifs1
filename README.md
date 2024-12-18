@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif Sude</h1>
 <h3 align="center">Computer Engineering Student</h3>
-<img align ="right" alt="coding" width="400" src="https://dribbble.com/shots/16093268-Desktop-Animation">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifs1&label=Profile%20views&color=0e75b6&style=flat" alt="elifs1" /> </p>
 
