@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif Sude</h1>
 <h3 align="center">Computer Engineering Student</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
 
