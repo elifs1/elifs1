@@ -1,8 +1,5 @@
 <h1 align="center" style="color: #9b59b6;">✨ Hi there, I'm <span style="color: #8e44ad;">Elif Sude</span> ✨</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" height="200" alt="Welcome GIF">
-</p>
 
 ---
 
