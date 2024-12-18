@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Currently working on e-commerce and automation projects**
+- 🌱 I’m  **Currently working on e-commerce and automation projects**
 
 
 <p align="left">
