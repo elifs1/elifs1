@@ -3,7 +3,11 @@
 
 
 
-- 🌱 I’m  **Currently working on e-commerce and automation projects**
+- 🌱 **Currently working on e-commerce and automation projects**
+- 📚**Passionate about learning and growing in the tech field**
+- 💬 **Ask me about web development, C#, or automation systems!**
+
+Let's connect! 🚀
 
 
 <p align="left">
