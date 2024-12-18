@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Currently working on e-commerce and automation projects**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
