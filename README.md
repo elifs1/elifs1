@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm <span style="color: #ff5733;">Elif Sude</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color: #9b59b6;">Elif Sude</span></h1>
 
-## 🌐 About Me  
+---
+
+## 🌌 About Me  
 - 🎓 **Computer Engineering Student**  
 - 🌱 **Currently working on e-commerce and automation projects**  
 - 📚 **Passionate about learning and growing in the tech field**  
@@ -34,13 +36,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elifs1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elifs1&show_icons=true&locale=en&layout=compact&theme=purple" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifs1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elifs1&show_icons=true&locale=en&theme=purple" alt="GitHub Stats" />
 </p>
 
 ---
-
 
