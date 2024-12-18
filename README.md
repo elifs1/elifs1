@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Sude</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elifs1&label=Profile%20views&color=0e75b6&style=flat" alt="elifs1" /> </p>
+
 
 - 🌱 I’m currently learning **Currently working on e-commerce and automation projects**
 
