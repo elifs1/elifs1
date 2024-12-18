@@ -53,6 +53,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="150" height="150" alt="Thank You GIF">
-</p>
+
