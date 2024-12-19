@@ -4,7 +4,7 @@
 - 🎓 **Computer Engineering Student**  
 - 🌱 **Currently working on e-commerce and automation projects**  
 - 📚 **Passionate about learning and growing in the tech field**  
-- 💬 **Ask me about web development, C#, or automation systems!**  
+- 💬 **Ask me about web development, C#, or automation systems!**
 
 ---
 
