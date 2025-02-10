@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #ff5733;">Elif Sude</span></h1>
 
-## 🌐 About Me  
+## 🌐 About Me 
 - 🎓 **Computer Engineering Student**  
 - 🌱 **Currently working on e-commerce and automation projects**  
 - 📚 **Passionate about learning and growing in the tech field**  
