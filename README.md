@@ -52,30 +52,29 @@
 ## 🗂️ Projects
 
 ### 🔏 Digital Watermarking *(in progress)*
-Görüntülere gözle görülmez dijital damga ekleme sistemi. Telif hakkı koruması ve içerik doğrulama odaklı.
+Invisible digital watermarking system for images. Focused on copyright protection and content authenticity verification.
 
 `Python` `OpenCV` `NumPy`
 
 ---
 
 ### 🏥 Disease Detection with NLP
-Hasta semptom metinlerinden NLP teknikleri kullanarak hastalık sınıflandırması yapan makine öğrenmesi modeli.
+A machine learning model that classifies diseases from patient symptom descriptions using natural language processing techniques.
 
 `Python` `scikit-learn` `NLTK` `Pandas`
 
 ---
 
 ### 🛒 E-Commerce Website
-Kullanıcı yönetimi, ürün listeleme, sepet ve sipariş akışı içeren tam kapsamlı e-ticaret uygulaması.
+Full-featured e-commerce application with user management, product listings, shopping cart, and order flow.
 
-`C#` `ASP.NET MVC` `MySQL` `Bootstrap`
 
 ---
 
 ### ⚙️ MVC Automation System
-MVC mimarisi üzerine kurulu iş süreçlerini dijitalleştiren otomasyon web uygulaması.
+A web-based automation application built on MVC architecture, designed to digitize and streamline business processes.
 
-`C#` `ASP.NET MVC` `JavaScript` `MySQL`
+ `ASP.NET MVC`  `MySQL`
 
 ---
 
