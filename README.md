@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif Sude</h1>
-<h3 align="center">Computer Engineering Student · ML & Full-Stack Developer</h3>
+<h3 align="center">Computer Engineering Student · </h3>
 
 <p align="center">
   Building machine learning solutions and full-stack web applications —<br/>
