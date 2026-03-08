@@ -1,4 +1,4 @@
-<h1 align="center">Elif Sude</h1>
+<h1 align="center">Elif Sude Alpaslan</h1>
 
 <p align="center">
   <em>Computer Engineering Student &nbsp;·&nbsp; &nbsp;·&nbsp; </em>
