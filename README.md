@@ -1,7 +1,7 @@
 <h1 align="center">Elif Sude</h1>
 
 <p align="center">
-  <em>Computer Engineering Student &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Full-Stack Developer</em>
+  <em>Computer Engineering Student &nbsp;·&nbsp; &nbsp;·&nbsp; </em>
 </p>
 
 <p align="center">
@@ -9,15 +9,7 @@
   from NLP-based disease detection to digital watermarking systems.
 </p>
 
-<p align="center">
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/LINKEDIN_ADIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=elifs1&color=ff5733&style=flat-square&label=profile+views"/>
-</p>
+
 
 ---
 
@@ -77,10 +69,7 @@
 ### 🛒 E-Commerce Website
 > Full-featured e-commerce application with user management, product listings, shopping cart, and order flow.
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ---
 
