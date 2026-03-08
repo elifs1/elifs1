@@ -14,7 +14,7 @@
 - 🔬 **Currently working on:** Digital Watermarking (image/content integrity)
 - 🧠 **Interests:** NLP · Image Processing · Web Development · Automation
 - 💬 **Ask me about:** Python, C#, ML models, or MVC architecture
-- 📫 **Contact:** [email@example.com]
+
 
 ---
 
